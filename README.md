@@ -4,9 +4,11 @@
 
 I enjoy a matcha cup and an afternoon session of hard-coding.
 
+I'm finishing WhisperAI implementation for accessibility at [ChessLand](https://github.com/antoinnedo/chessgame_webapp)
+
 ---
 
-### Stacks
+## Stacks
 
 ### Languages
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](#)
@@ -18,6 +20,7 @@ I enjoy a matcha cup and an afternoon session of hard-coding.
 [![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)](#)
+[![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff)](#)
 [![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)](#)
 
 ### Framework and Libraries
